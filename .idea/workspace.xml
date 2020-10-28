@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29a15218-eb3d-49ba-bf6f-c53a40375b6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/calculator_test" />
+  </component>
+  <component name="ProjectId" id="1jVKMCv8JdupsxOGQZfHHnom8dz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_calculator.test_div_2">
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="calculator_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_calculator.test_calculator&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_calculator.test_div_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="calculator_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_calculator.test_div_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_calculator.test_sub_4" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="calculator_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_calculator.test_sub_4&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_calculator.test_sum" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="calculator_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_calculator.test_sum&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_calculator.test_sum_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="calculator_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_calculator.test_sum_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_calculator.test_sum_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="calculator_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_calculator.test_sum_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test_calculator.test_sum" />
+      <item itemvalue="Python tests.pytest for test_calculator.test_sum_1" />
+      <item itemvalue="Python tests.pytest for test_calculator.test_sum_2" />
+      <item itemvalue="Python tests.pytest for test_calculator.test_sub_4" />
+      <item itemvalue="Python tests.pytest for test_calculator.test_div_2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_calculator.test_div_2" />
+        <item itemvalue="Python tests.pytest for test_calculator.test_sub_4" />
+        <item itemvalue="Python tests.pytest for test_calculator.test_sum_2" />
+        <item itemvalue="Python tests.pytest for test_calculator.test_sum_1" />
+        <item itemvalue="Python tests.pytest for test_calculator.test_sum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29a15218-eb3d-49ba-bf6f-c53a40375b6c" name="Default Changelist" comment="" />
+      <created>1603883768742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603883768742</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="147" y="23" width="1071" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603887784561">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="147" y="23" width="1071" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1366.677@0.23.1366.677" timestamp="1603887784561" />
+    <state x="420" y="152" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603887781679">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="420" y="152" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1366.677@0.23.1366.677" timestamp="1603887781679" />
+    <state width="1345" height="339" key="GridCell.Tab.0.bottom" timestamp="1603892403013">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state width="1345" height="339" key="GridCell.Tab.0.bottom/0.23.1366.677@0.23.1366.677" timestamp="1603892403013" />
+    <state width="1345" height="339" key="GridCell.Tab.0.center" timestamp="1603892403012">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state width="1345" height="339" key="GridCell.Tab.0.center/0.23.1366.677@0.23.1366.677" timestamp="1603892403012" />
+    <state width="1345" height="339" key="GridCell.Tab.0.left" timestamp="1603892403011">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state width="1345" height="339" key="GridCell.Tab.0.left/0.23.1366.677@0.23.1366.677" timestamp="1603892403011" />
+    <state width="1345" height="339" key="GridCell.Tab.0.right" timestamp="1603892403012">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state width="1345" height="339" key="GridCell.Tab.0.right/0.23.1366.677@0.23.1366.677" timestamp="1603892403012" />
+    <state width="1345" height="205" key="GridCell.Tab.1.bottom" timestamp="1603888366978">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state width="1345" height="205" key="GridCell.Tab.1.bottom/0.23.1366.677@0.23.1366.677" timestamp="1603888366978" />
+    <state width="1345" height="205" key="GridCell.Tab.1.center" timestamp="1603888366977">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state width="1345" height="205" key="GridCell.Tab.1.center/0.23.1366.677@0.23.1366.677" timestamp="1603888366977" />
+    <state width="1345" height="205" key="GridCell.Tab.1.left" timestamp="1603888366976">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state width="1345" height="205" key="GridCell.Tab.1.left/0.23.1366.677@0.23.1366.677" timestamp="1603888366976" />
+    <state width="1345" height="205" key="GridCell.Tab.1.right" timestamp="1603888366977">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state width="1345" height="205" key="GridCell.Tab.1.right/0.23.1366.677@0.23.1366.677" timestamp="1603888366977" />
+    <state x="192" y="23" key="SettingsEditor" timestamp="1603887095056">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="192" y="23" key="SettingsEditor/0.23.1366.677@0.23.1366.677" timestamp="1603887095056" />
+  </component>
+</project>
