@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29a15218-eb3d-49ba-bf6f-c53a40375b6c" name="Default Changelist" comment="" />
+    <list default="true" id="29a15218-eb3d-49ba-bf6f-c53a40375b6c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +18,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/calculator_test" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jVKMCv8JdupsxOGQZfHHnom8dz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,9 +29,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_calculator.test_div_2">
+  <component name="RunManager" selected="Python tests.pytest for test_calculator.test_sum_1">
     <configuration default="true" type="tests" factoryName="py.test">
       <module name="calculator_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,6 +62,21 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_calculator.test_mult_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="calculator_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_calculator.test_mult_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_calculator.test_sub_4" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="calculator_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,21 +89,6 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_calculator.test_sub_4&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_calculator.test_sum" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="calculator_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_calculator.test_sum&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -119,19 +123,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest for test_calculator.test_sum" />
       <item itemvalue="Python tests.pytest for test_calculator.test_sum_1" />
       <item itemvalue="Python tests.pytest for test_calculator.test_sum_2" />
       <item itemvalue="Python tests.pytest for test_calculator.test_sub_4" />
       <item itemvalue="Python tests.pytest for test_calculator.test_div_2" />
+      <item itemvalue="Python tests.pytest for test_calculator.test_mult_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_calculator.test_sum_1" />
+        <item itemvalue="Python tests.pytest for test_calculator.test_mult_2" />
         <item itemvalue="Python tests.pytest for test_calculator.test_div_2" />
         <item itemvalue="Python tests.pytest for test_calculator.test_sub_4" />
         <item itemvalue="Python tests.pytest for test_calculator.test_sum_2" />
-        <item itemvalue="Python tests.pytest for test_calculator.test_sum_1" />
-        <item itemvalue="Python tests.pytest for test_calculator.test_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +152,11 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/calculator_test" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="147" y="23" width="1071" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603887784561">
       <screen x="0" y="23" width="1366" height="677" />
@@ -157,41 +166,49 @@
       <screen x="0" y="23" width="1366" height="677" />
     </state>
     <state x="420" y="152" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1366.677@0.23.1366.677" timestamp="1603887781679" />
-    <state width="1345" height="339" key="GridCell.Tab.0.bottom" timestamp="1603892403013">
+    <state x="328" y="23" key="CommitChangelistDialog2" timestamp="1603894843794">
       <screen x="0" y="23" width="1366" height="677" />
     </state>
-    <state width="1345" height="339" key="GridCell.Tab.0.bottom/0.23.1366.677@0.23.1366.677" timestamp="1603892403013" />
-    <state width="1345" height="339" key="GridCell.Tab.0.center" timestamp="1603892403012">
+    <state x="328" y="23" key="CommitChangelistDialog2/0.23.1366.677@0.23.1366.677" timestamp="1603894843794" />
+    <state width="1345" height="205" key="GridCell.Tab.0.bottom" timestamp="1603894706843">
       <screen x="0" y="23" width="1366" height="677" />
     </state>
-    <state width="1345" height="339" key="GridCell.Tab.0.center/0.23.1366.677@0.23.1366.677" timestamp="1603892403012" />
-    <state width="1345" height="339" key="GridCell.Tab.0.left" timestamp="1603892403011">
+    <state width="1345" height="205" key="GridCell.Tab.0.bottom/0.23.1366.677@0.23.1366.677" timestamp="1603894706843" />
+    <state width="1345" height="205" key="GridCell.Tab.0.center" timestamp="1603894706841">
       <screen x="0" y="23" width="1366" height="677" />
     </state>
-    <state width="1345" height="339" key="GridCell.Tab.0.left/0.23.1366.677@0.23.1366.677" timestamp="1603892403011" />
-    <state width="1345" height="339" key="GridCell.Tab.0.right" timestamp="1603892403012">
+    <state width="1345" height="205" key="GridCell.Tab.0.center/0.23.1366.677@0.23.1366.677" timestamp="1603894706841" />
+    <state width="1345" height="205" key="GridCell.Tab.0.left" timestamp="1603894706839">
       <screen x="0" y="23" width="1366" height="677" />
     </state>
-    <state width="1345" height="339" key="GridCell.Tab.0.right/0.23.1366.677@0.23.1366.677" timestamp="1603892403012" />
-    <state width="1345" height="205" key="GridCell.Tab.1.bottom" timestamp="1603888366978">
+    <state width="1345" height="205" key="GridCell.Tab.0.left/0.23.1366.677@0.23.1366.677" timestamp="1603894706839" />
+    <state width="1345" height="205" key="GridCell.Tab.0.right" timestamp="1603894706842">
       <screen x="0" y="23" width="1366" height="677" />
     </state>
-    <state width="1345" height="205" key="GridCell.Tab.1.bottom/0.23.1366.677@0.23.1366.677" timestamp="1603888366978" />
-    <state width="1345" height="205" key="GridCell.Tab.1.center" timestamp="1603888366977">
+    <state width="1345" height="205" key="GridCell.Tab.0.right/0.23.1366.677@0.23.1366.677" timestamp="1603894706842" />
+    <state width="1345" height="205" key="GridCell.Tab.1.bottom" timestamp="1603894706847">
       <screen x="0" y="23" width="1366" height="677" />
     </state>
-    <state width="1345" height="205" key="GridCell.Tab.1.center/0.23.1366.677@0.23.1366.677" timestamp="1603888366977" />
-    <state width="1345" height="205" key="GridCell.Tab.1.left" timestamp="1603888366976">
+    <state width="1345" height="205" key="GridCell.Tab.1.bottom/0.23.1366.677@0.23.1366.677" timestamp="1603894706847" />
+    <state width="1345" height="205" key="GridCell.Tab.1.center" timestamp="1603894706846">
       <screen x="0" y="23" width="1366" height="677" />
     </state>
-    <state width="1345" height="205" key="GridCell.Tab.1.left/0.23.1366.677@0.23.1366.677" timestamp="1603888366976" />
-    <state width="1345" height="205" key="GridCell.Tab.1.right" timestamp="1603888366977">
+    <state width="1345" height="205" key="GridCell.Tab.1.center/0.23.1366.677@0.23.1366.677" timestamp="1603894706846" />
+    <state width="1345" height="205" key="GridCell.Tab.1.left" timestamp="1603894706845">
       <screen x="0" y="23" width="1366" height="677" />
     </state>
-    <state width="1345" height="205" key="GridCell.Tab.1.right/0.23.1366.677@0.23.1366.677" timestamp="1603888366977" />
-    <state x="192" y="23" key="SettingsEditor" timestamp="1603887095056">
+    <state width="1345" height="205" key="GridCell.Tab.1.left/0.23.1366.677@0.23.1366.677" timestamp="1603894706845" />
+    <state width="1345" height="205" key="GridCell.Tab.1.right" timestamp="1603894706846">
       <screen x="0" y="23" width="1366" height="677" />
     </state>
-    <state x="192" y="23" key="SettingsEditor/0.23.1366.677@0.23.1366.677" timestamp="1603887095056" />
+    <state width="1345" height="205" key="GridCell.Tab.1.right/0.23.1366.677@0.23.1366.677" timestamp="1603894706846" />
+    <state x="192" y="23" key="SettingsEditor" timestamp="1603894701105">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="192" y="23" key="SettingsEditor/0.23.1366.677@0.23.1366.677" timestamp="1603894701105" />
+    <state x="376" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1603894740324">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="376" y="194" key="com.intellij.ide.util.TipDialog/0.23.1366.677@0.23.1366.677" timestamp="1603894740324" />
   </component>
 </project>
